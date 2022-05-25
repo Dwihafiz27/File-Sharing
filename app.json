@@ -29,7 +29,27 @@
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
       "value": "-100"
     },
-    "FORCE_SUB_CHANNEL":{
+    "FORCE_SUB_CHANNEL_I":{
+      "description": "id of the channel or group, if you want enable force sub feature else put 0",
+      "value": "0"
+    },
+  "FORCE_SUB_CHANNEL_II":{
+      "description": "id of the channel or group, if you want enable force sub feature else put 0",
+      "value": "0"
+    },
+ "FORCE_SUB_CHANNEL_III":{
+      "description": "id of the channel or group, if you want enable force sub feature else put 0",
+      "value": "0"
+    },
+  "FORCE_SUB_CHANNEL_IV":{
+      "description": "id of the channel or group, if you want enable force sub feature else put 0",
+      "value": "0"
+    },
+  "FORCE_SUB_CHANNEL_V":{
+      "description": "id of the channel or group, if you want enable force sub feature else put 0",
+      "value": "0"
+    },
+     "FORCE_SUB_CHANNEL_VI":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
       "value": "0"
     },
