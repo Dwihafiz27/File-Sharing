@@ -21,7 +21,12 @@ OWNER_ID = int(os.environ.get("OWNER_ID", ""))
 DB_URI = os.environ.get("DATABASE_URL", "")
 
 #force sub channel id, if you want enable force sub
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "0"))
+FORCE_SUB_CHANNEL_I = int(os.environ.get("FORCE_SUB_CHANNEL_I", "0"))
+FORCE_SUB_CHANNEL_II = int(os.environ.get("FORCE_SUB_CHANNEL_II", "0"))
+FORCE_SUB_CHANNEL_III = int(os.environ.get("FORCE_SUB_CHANNEL_III", "0"))
+FORCE_SUB_CHANNEL_IV = int(os.environ.get("FORCE_SUB_CHANNEL_IV", "0"))
+FORCE_SUB_CHANNEL_V = int(os.environ.get("FORCE_SUB_CHANNEL_V", "0"))
+FORCE_SUB_CHANNEL_VI = int(os.environ.get("FORCE_SUB_CHANNEL_VI", "0"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
